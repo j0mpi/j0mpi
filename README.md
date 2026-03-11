@@ -1,4 +1,5 @@
-<h3>Hey👋, I'm Matt </h3>
+<h1>Hey👋, I'm Matt </h1>
+<br>
 <h5>Developer | Student | Tech Competitor</h5>
 <h4>A 3rd year Computer Science student from the Philippines 🇵🇭, currently studying at National University - Laguna</h4>
 
