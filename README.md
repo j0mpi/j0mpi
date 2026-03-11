@@ -1,11 +1,22 @@
 <h1 style="margin-bottom:5px;">Hey👋, I'm Matt</h1>
 <h5 style="margin-top:0;">Developer | Student | Tech Competitor</h5>
 
-<h1 style="margin-bottom:5px;">📚 About me</h1>
-<h3 style="margin-top:0;"> I am Matthew Clarence Jompilla currently a 3rd year Computer Science student from the Philippines 🇵🇭. </h3>
-<p> Still learning and growing as a developer while building projects along the way. I enjoy continuously learning, improving my skills, and exploring new technologies. I'm especially drawn to creating solutions that can contribute to meaningful improvements, no matter how big or small.
+<h2>📚 About Me</h2>
 
-I’m a consistent Dean’s Lister at NU Laguna and have earned several accolades through participating in various competitions, including academic contests, hackathons, and even e-sports tournaments.</p>
+<p>
+Hi! I'm <b>Matthew Clarence Jompilla</b>, a 3rd-year Computer Science student from the Philippines 🇵🇭.
+</p>
+
+<p>
+I'm currently growing as a developer, building projects while continuously learning and improving my skills. 
+I enjoy exploring new technologies and creating solutions that can contribute to meaningful improvements, 
+no matter how big or small.
+</p>
+
+<p>
+I’m also a consistent <b>Dean’s Lister at NU Laguna</b> and have earned several accolades from participating 
+in various competitions, including academic contests, hackathons, and even e-sports tournaments.
+</p>
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/matthewclarencejompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewclarencejompilla" height="30" width="40" /></a> <a href="https://fb.com/matthew.jompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthew jompilla" height="30" width="40" /></a> <a href="https://instagram.com/jompi_dompi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jompi_dompi" height="30" width="40" /></a> </p>
 
