@@ -1,5 +1,5 @@
-<h3 align="center">Wassup👋, I'm Matthew Clarence Jompilla</h3>
-<h4 align="center">A Computer Science student and event's host from the Philippines 🇵🇭, currently studying at National University - Laguna</h4>
+<h3>Wassup👋, I'm Matthew Clarence Jompilla</h3>
+<h4>A Computer Science student and event's host from the Philippines 🇵🇭, currently studying at National University - Laguna</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
