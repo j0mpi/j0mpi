@@ -1,4 +1,4 @@
-<h1 style="margin-bottom:5px;">👋 Hi, I'm Matt</h1>
+<h1>👋 Hi, I'm Matt</h1>
 <h4 style="margin-top:0;">Developer | Student | Tech Competitor</h4>
 <h2>💻 What I Do</h2>
 <ul>
