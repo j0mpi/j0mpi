@@ -35,7 +35,6 @@ in various competitions, including academic contests, hackathons, and even e-spo
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 <img src="https://img.shields.io/badge/Adobe_Animate-FF9A00?style=for-the-badge&logo=adobeanimate&logoColor=white" alt="Adobe Animate"/>
 <img src="https://img.shields.io/badge/Scratch-FEDC2A?style=for-the-badge&logo=scratch&logoColor=black" alt="Scratch"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
