@@ -1,11 +1,5 @@
 <h1>👋 Hi, I'm Matt</h1>
-<h4 style="margin-top:0;">Developer | Student | Tech Competitor</h4>
-<h2>💻 What I Do</h2>
-<ul>
-  <li>🛠️ <b>Build</b> projects and explore new technologies</li>
-  <li>🏆 <b>Join</b> hackathons and competitions</li>
-  <li>🎤 <b>Host</b> and organize community events</li>
-</ul>
+<h4>Developer | Student | Tech Competitor</h4>
 <h2>📚 About Me</h2>
 <p> Hi! I'm <b>Matthew Clarence Jompilla</b>, a 3rd-year Computer Science student from the Philippines 🇵🇭 </p>
 <p> 
@@ -18,6 +12,12 @@ I’m also a consistent <b>Dean’s Lister at NU Laguna</b> and have earned seve
 in various competitions, including academic contests, hackathons, and even e-sports tournaments.
 </p>
 <h2>Skills & Technologies</h2>
+<h2>💻 What I Do</h2>
+<ul>
+  <li>🛠️ <b>Build</b> projects and explore new technologies</li>
+  <li>🏆 <b>Join</b> hackathons and competitions</li>
+  <li>🎤 <b>Host</b> and organize community events</li>
+</ul>
 
 <h2>🛠️ Languages & Tools</h2>
 <p align="center">
