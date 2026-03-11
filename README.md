@@ -1,12 +1,7 @@
 <h3>Wassup👋, I'm Matthew Clarence Jompilla</h3>
 <h4>A 3rd year Computer Science student from the Philippines 🇵🇭, currently studying at National University - Laguna</h4>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/matthewclarencejompilla"><img src="https://img.shields.io/badge/LinkedIn-Matthew%20Jompilla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://fb.com/matthew.jompilla"><img src="https://img.shields.io/badge/Facebook-Matthew%20Jompilla-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/jompi_dompi"><img src="https://img.shields.io/badge/Instagram-@jompi_dompi-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/matthewclarencejompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewclarencejompilla" height="30" width="40" /></a> <a href="https://fb.com/matthew.jompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthew jompilla" height="30" width="40" /></a> <a href="https://instagram.com/jompi_dompi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jompi_dompi" height="30" width="40" /></a> </p>
 
 <h3 align="left">Languages & Tools:</h3>
 
