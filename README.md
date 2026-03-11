@@ -11,7 +11,7 @@ no matter how big or small.
 I’m also a consistent <b>Dean’s Lister at NU Laguna</b> and have earned several accolades from participating 
 in various competitions, including academic contests, hackathons, and even e-sports tournaments.
 </p>
-<h2>Skills & Technologies</h2>
+
 <h2>💻 What I Do</h2>
 <ul>
   <li>🛠️ <b>Build</b> projects and explore new technologies</li>
@@ -19,7 +19,7 @@ in various competitions, including academic contests, hackathons, and even e-spo
   <li>🎤 <b>Host</b> and organize community events</li>
 </ul>
 
-<h2>🛠️ Languages & Tools</h2>
+<h2>⚡ Skills & Technologies</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
