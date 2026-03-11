@@ -1,6 +1,5 @@
-<h1>Hey👋, I'm Matt </h1>
-<br>
-<h5>Developer | Student | Tech Competitor</h5>
+<h1 style="margin-bottom:5px;">Hey👋, I'm Matt</h1>
+<h5 style="margin-top:0;">Developer | Student | Tech Competitor</h5>
 <h4>A 3rd year Computer Science student from the Philippines 🇵🇭, currently studying at National University - Laguna</h4>
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://linkedin.com/in/matthewclarencejompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewclarencejompilla" height="30" width="40" /></a> <a href="https://fb.com/matthew.jompilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matthew jompilla" height="30" width="40" /></a> <a href="https://instagram.com/jompi_dompi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jompi_dompi" height="30" width="40" /></a> </p>
