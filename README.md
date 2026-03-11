@@ -1,5 +1,5 @@
 <h1 style="margin-bottom:5px;">Hey👋, I'm Matt</h1>
-<h5 style="margin-top:0;">Developer | Student | Tech Competitor</h5>
+<h4 style="margin-top:0;">Developer | Student | Tech Competitor</h4>
 <h2>💻 What I Do</h2>
 <ul>
   <li>🛠️ <b>Build</b> projects and explore new technologies</li>
